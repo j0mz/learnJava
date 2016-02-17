@@ -1,4 +1,4 @@
-package learnJava;
+package learnJavaCh1;
 
 public class ComputeExpression {
 
